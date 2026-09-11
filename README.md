@@ -14,13 +14,13 @@ O usuário entra o nome da plataforma, e diz se a senha deve ser forte ou não, 
 Caso seja marcado como senha forte, é adicionado "@hard" antes.
 
 Exemplos:
--Entrada: "teste"
--Forte?: Não
--Saída: Ram.0590
+- Entrada: "teste"
+- Forte?: Não
+- Saída: Ram.0590
 
--Entrada: "teste"
--Forte?: Sim
--Saída: @hardRam.0590
+- Entrada: "teste"
+- Forte?: Sim
+- Saída: @hardRam.0590
 
 ## Alerta
 
